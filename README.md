@@ -1,3 +1,10 @@
+## Company Overview:
+**Tata Motors Limited** is a leading global automobile manufacturer and a part of the Tata Group, one of India's largest conglomerates. Founded in 1945, Tata Motors has a strong presence in both passenger and commercial vehicle segments.
+
+This project involved conducting a comprehensive financial analysis of Tata Motors to assess its financial health, investment potential, and valuation. The objective was to derive actionable insights for informed investment decisions.
+
+
+
 Tools & Technologies: Employed Excel with PDF report generation for structured insights.
 
 Data Retrieval: Utilized Screener, Yahoo Finance, and PrimeInvestor to collect financial data.
